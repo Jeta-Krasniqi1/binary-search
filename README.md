@@ -33,6 +33,7 @@ Open a terminal and navigate to the project folder.
 
 Compile the program:
 ``` javac BinarySearch.java```
+
 Run the program:
 ```java BinarySearch```
 
