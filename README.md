@@ -9,7 +9,7 @@ The user enters the elements of the list.
 The program sorts the list.                                
 
 The user inputs a target number to search for.
-
+                  
 The program uses recursive binary search to find the target number.
 
 If found, it prints the index; otherwise, it prints a message that the number is not in the list.
