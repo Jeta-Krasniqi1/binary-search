@@ -6,7 +6,7 @@ The user inputs the number of elements in the list.
 
 The user enters the elements of the list.
 
-The program sorts the list.     
+The program sorts the list.                                
 
 The user inputs a target number to search for.
 
